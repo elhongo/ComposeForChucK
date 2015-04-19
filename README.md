@@ -17,11 +17,11 @@ complex music with Chuck
 ## Instalation
 If you do not have installed chuck, the following link has everything you need: http://chuck.cs.princeton.edu/
 
-To install the Compose framework: 
-    - Open miniAudicle
-    - Start the virtual machine
-    - Run Compose code
-    - Now you have your framework up and running, you can write your program in another tab and work with the Compose Framework
+To install the Compose framework: <br/>
+    - Open miniAudicle <br/>
+    - Start the virtual machine <br/>
+    - Run Compose code <br/>
+    - Now you have your framework up and running, you can write your program in another tab and work with the Compose Framework<br/>
     Note: everytime you run a program that uses Compose, you will need to run the Compose code first
 
 ## Future
