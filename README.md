@@ -36,12 +36,12 @@ into a combination of notes and melodies. Another important input could be the u
 musical beat could be sincronized in real time with the users pulse rate. This could vary drastically a mood of the musical 
 piece. 
 
-The Mona Lisa:
+The Mona Lisa:<br/>
 Imagine a program like the one described as the final masterpiece. Now image using this program as an artistic expierience.
 Now imagine taking it to the next level, and putting on an Oculus Rift that gives you amazing visuals that interpret the music
 that is playing. An Artistic Expierience that represents yourself. It would be like looking in the mirror of your innerself.
 
-Today is a gift, thats why we call it present:
+Today is a gift, thats why we call it present:<br/>
 Let´s interpret the present moment. Another, taking it to the next level idea... Imagine a system that could interpret the present
 moment. The system installed in a box with sensors and speakers. And wherever you take this magic box, it played a never ending
 song that interprets its souroundings in real time. If its raining, cold, worm, windy, sun, moon, darkness, whatever the system
